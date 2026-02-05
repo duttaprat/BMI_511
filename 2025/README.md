@@ -42,5 +42,4 @@ All course materials are provided as Jupyter notebooks that can be run in Google
 
 ---
 
-**Course Website:** [Link to course page if available]  
 **Department:** [Biomedical Informatics, Stony Brook University](https://bmi.stonybrookmedicine.edu/)
